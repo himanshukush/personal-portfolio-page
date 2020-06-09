@@ -6,16 +6,16 @@
   }
 
 body {
-      min-width: 300px;
+      min-width: 500px;
       background-color: #e0eeee;
         }
 .profileBody{
     display: inline-block;
     background-color: white;
-    margin-top: 30px;
+    margin-top: 6px;
     margin-left: 55px;
     width: 75%;
-    height: 400px;
+    height: 590px;
     padding: 10px;
     padding-left: 20px;
     
@@ -29,8 +29,8 @@ h2{
     color: dimgray;
 }
 hr{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     height: solid 5px;
 }
 ul{
